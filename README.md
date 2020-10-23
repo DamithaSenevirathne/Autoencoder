@@ -1,2 +1,2 @@
 # Autoencoder
-Dimensional reduction using autoencoder
+Dimension reduction using autoencoder
